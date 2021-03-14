@@ -1,1 +1,1 @@
-# idea_mixer
+Web app to promote idea generation.
